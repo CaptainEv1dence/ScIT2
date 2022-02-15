@@ -1,0 +1,7 @@
+#!C:\Users\petrk\ScIT2\venv\Scripts\python.exe
+
+import sys
+import gmsh
+
+gmsh.initialize(sys.argv, run=True)
+gmsh.finalize()
