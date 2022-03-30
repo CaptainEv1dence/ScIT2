@@ -1,5 +1,5 @@
 # ScIT2
 
-Hello traveller!
+Hello, adventurer!
 
 It's dangerous to go alone, take this visualisation
